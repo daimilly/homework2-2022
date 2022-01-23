@@ -67,7 +67,7 @@ div{
 }
 
 .yellow{
-    background: #FFF000;
+    background: #FFFF00;
     border-bottom: 3px solid #ffffff;
     border-left: 10px solid #ffffff;
     border-top: None;
@@ -94,6 +94,9 @@ div{
 
 footer{
     background: linear-gradient(to left, #000000, #0000ff 25%, #0066ff 70%, #000000);
+}
+
+footer p{
     text-align: center;
     font-size: 20px;
     padding: 10px 10px 10px 0;
